@@ -1,0 +1,18 @@
+.conteudo-login {
+  background: linear-gradient(#171934, #373c85fe);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+mat-form-field {
+  width: 300px;
+}
+
+.btn {
+  width: 300px;
+  background: #ef4c5e;
+  font-size: large;
+}
